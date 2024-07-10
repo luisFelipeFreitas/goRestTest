@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "axios": "^1.7.2",
+    "mocha": "^10.6.0"
+  },
+  "dependencies": {
+    "should": "^13.2.3"
+  }
+}
